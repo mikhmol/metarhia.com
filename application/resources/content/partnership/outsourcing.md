@@ -5,7 +5,7 @@ practices from the creators of Metarhia & Node.js. Our mission is to make Node.j
 ready for enterprise-level development. To do that we need to chenge both
 technology and community.
 
-Metarhia is a community since 2013 (7 years) ~20.000 developers, we did 269
+Metarhia is a community since 2013 (13 years) ~20.000 developers, we did 269
 meetups and 162 lectures. We have 5 Node.js contributors, 44 collaborators of
 Metarhia technology stack, and >100 contributors.
 

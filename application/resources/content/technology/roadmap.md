@@ -1,5 +1,7 @@
 # Metarhia stack roadmap
 
+Current release: [impress 3.1.2](https://github.com/metarhia/impress) (September 29, 2025).
+
 - 2021 January: Add metaschema, metawatch and metautil to the stack
 - 2021 February: Implement file transfer and context protection
 - 2021 March: Improve metasql, migrations and query builder

@@ -7,8 +7,8 @@
 - [metalog](https://github.com/metarhia/metalog) - Logger for Metarhia stack
 - [metacom](https://github.com/metarhia/metacom) - Communication protocol for
   Metarhia stack with rpc, events, and binary streams
-- [metarhia/config](https://github.com/metarhia/config) - Configuration loader
-- [metarhia/common](https://github.com/metarhia/common) - Common library
+- [metaconfiguration](https://github.com/metarhia/metaconfiguration) - Configuration loader
+- [metautil](https://github.com/metarhia/metautil) - Common library
 - [metaschema](https://github.com/metarhia/metaschema) - Metadata schema and
   interface definition language (IDL)
 - [metawatch](https://github.com/metarhia/metawatch) - Nested directories watch

@@ -1,10 +1,11 @@
 # Collaboration offer for an individual beginner specialist
 
 You can join community groups, watch open lectures, ask questions, do practical
-tasks in HowProgrammingWorks repositories. All listed activities are free but we
-have mentorship program, so you can find someone who can do code review for you,
-help to contribute for the first time, develop real projects together for certain
-hourly rate.
+tasks in HowProgrammingWorks repositories. Lectures, YouTube, and Telegram are
+free. The weekly community call on Meetup NodeUA is available by subscription
+($10 per month or via Patreon). We have mentorship program, so you can find
+someone who can do code review for you, help to contribute for the first time,
+develop real projects together for certain hourly rate.
 
 ## Links, channels and groups
 

@@ -8,7 +8,7 @@
 
 ## Install
 
-- Use Fedora Linux Server 42
+- Use Fedora Linux Server 44
 - Install Node.js 24 with `nvm` or `dnf`
 - Install [certbot](https://github.com/certbot/certbot)
 - Generate SSL certificates
@@ -61,16 +61,16 @@ sudo systemctl start metarhia-com.service
 Now you can get service status
 
 ```sh
-sudo systemctl status metarhia-com-web.service
+sudo systemctl status metarhia-com.service
 ```
 
 And view service logs
 
 ```sh
-journalctl -u metarhia-com-web -f
+journalctl -u metarhia-com -f
 ```
 
 ## License
 
-Copyright (c) 2020-2025 Metarhia contributors.
+Copyright (c) 2020–2026 Metarhia contributors.
 This starter kit is [MIT licensed](./LICENSE).
